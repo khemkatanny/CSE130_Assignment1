@@ -1,0 +1,4 @@
+psort.c: In function ‘multiProcessMergeSort’:
+psort.c:37:7: warning: unused variable ‘i’ [-Wunused-variable]
+   int i = 0;
+       ^
